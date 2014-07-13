@@ -1,5 +1,5 @@
 # Note 1. The package install is required just once not everytime
-# Note 2. library command is required whenever we need to use read.csv.sql
+# Note 2. library command is required because read.csv.sql is present in sqldf package
 # Note 3. File has been downloaded and unzipped in the working directory, the script works on the file 
 
  install.packages("sqldf")
